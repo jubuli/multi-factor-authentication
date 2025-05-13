@@ -3,6 +3,8 @@ web application implementing multi-factor authentication (MFA) using:
 Username & Password (1st Factor)
 
 OTP Verification (2nd Factor) via Email or Phone
+
+
 multi-factor-auth/
 ├── client/                    # React + Vite frontend
 │   ├── public/
